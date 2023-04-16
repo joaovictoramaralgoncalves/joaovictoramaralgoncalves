@@ -2,7 +2,6 @@
 
 
 #### - 🚀 Meu objetivo é resolver problemas
-#### - 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
 #### -  📫 Contate-me no E-mail: joaovictoramaralgoncalves@gmail.com
 
 
